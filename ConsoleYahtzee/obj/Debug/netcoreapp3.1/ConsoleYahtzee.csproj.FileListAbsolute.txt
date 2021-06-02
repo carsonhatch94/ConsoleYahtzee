@@ -1,0 +1,13 @@
+C:\Users\The Mob\RiderProjects\ConsoleYahtzee\ConsoleYahtzee\bin\Debug\netcoreapp3.1\ConsoleYahtzee.exe
+C:\Users\The Mob\RiderProjects\ConsoleYahtzee\ConsoleYahtzee\bin\Debug\netcoreapp3.1\ConsoleYahtzee.deps.json
+C:\Users\The Mob\RiderProjects\ConsoleYahtzee\ConsoleYahtzee\bin\Debug\netcoreapp3.1\ConsoleYahtzee.runtimeconfig.json
+C:\Users\The Mob\RiderProjects\ConsoleYahtzee\ConsoleYahtzee\bin\Debug\netcoreapp3.1\ConsoleYahtzee.runtimeconfig.dev.json
+C:\Users\The Mob\RiderProjects\ConsoleYahtzee\ConsoleYahtzee\bin\Debug\netcoreapp3.1\ConsoleYahtzee.dll
+C:\Users\The Mob\RiderProjects\ConsoleYahtzee\ConsoleYahtzee\bin\Debug\netcoreapp3.1\ConsoleYahtzee.pdb
+C:\Users\The Mob\RiderProjects\ConsoleYahtzee\ConsoleYahtzee\obj\Debug\netcoreapp3.1\ConsoleYahtzee.csprojAssemblyReference.cache
+C:\Users\The Mob\RiderProjects\ConsoleYahtzee\ConsoleYahtzee\obj\Debug\netcoreapp3.1\ConsoleYahtzee.AssemblyInfoInputs.cache
+C:\Users\The Mob\RiderProjects\ConsoleYahtzee\ConsoleYahtzee\obj\Debug\netcoreapp3.1\ConsoleYahtzee.AssemblyInfo.cs
+C:\Users\The Mob\RiderProjects\ConsoleYahtzee\ConsoleYahtzee\obj\Debug\netcoreapp3.1\ConsoleYahtzee.csproj.CoreCompileInputs.cache
+C:\Users\The Mob\RiderProjects\ConsoleYahtzee\ConsoleYahtzee\obj\Debug\netcoreapp3.1\ConsoleYahtzee.dll
+C:\Users\The Mob\RiderProjects\ConsoleYahtzee\ConsoleYahtzee\obj\Debug\netcoreapp3.1\ConsoleYahtzee.pdb
+C:\Users\The Mob\RiderProjects\ConsoleYahtzee\ConsoleYahtzee\obj\Debug\netcoreapp3.1\ConsoleYahtzee.genruntimeconfig.cache
